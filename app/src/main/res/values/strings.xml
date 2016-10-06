@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Movie Night</string>
+    <string name="pick_date">From Date</string>
+    <string name="pick_to_date">To Date</string>
+</resources>
